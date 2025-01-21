@@ -1,3 +1,7 @@
+//Eickholt - 
+//1/21/25
+//Change the blackjack
+
 import java.util.Random;
 import java.util.Scanner;
 
